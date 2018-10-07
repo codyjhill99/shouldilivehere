@@ -1,0 +1,49 @@
+div.box {
+  width: 70%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  text-align: center;
+  margin: 15%;
+  border-radius: 10px;
+}
+/*
+div.table {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px;
+    font-size: 40px;
+}
+*/
+div.table {
+  padding: 0px;
+
+}
+
+.table2{
+  text-align: center;
+  margin: 1%;
+}
+
+table th{
+  padding: 2%;
+  padding-left: 0%;
+  padding-right: 2%;
+  width: 20%;
+  text-align: center;
+
+}
+
+table td{
+  padding-left: 0%;
+  padding-right: 0%;
+  width: 20%;
+  text-align: center;
+  padding-bottom: 2%;
+}
+
+.comment{
+  width: 70%;
+}
+.date{
+  width: 8%;
+  text-align: center;
+}
